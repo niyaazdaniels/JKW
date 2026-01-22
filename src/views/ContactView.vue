@@ -1,7 +1,7 @@
 <template>
     <div class="container-fluid">
 
-        <div class="row">
+        <div class="row d-flex justify-content-center">
             <div class="col-12">
                 <h4 class="display-4 text-center">Contact US</h4>
                 <hr class="my-4">
