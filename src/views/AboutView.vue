@@ -1,8 +1,8 @@
 <template>
-  <div class="container-fluid pb-5 mb-5 d-flex flex-column border-0">
+  <div class="container-fluid pb-5 mb-5 d-flex flex-column justify-content-center border-0">
     <h1>JKW Premium Detailing: A Journey to Excellence</h1>
     <div class="card border-0">
-      <p class="card-text text-center ">
+      <p class="container border-0 text-center d-flex justify-content-center fs-6">
         Founded in the heart of Cape Town by a passionate car enthusiast, JKW
         Premium Detailing began with a dream of transforming automotive care.
         Growing up, weekends were spent polishing, buffing, and perfecting
@@ -21,13 +21,13 @@
         story is one of dedication, expertise, and an unrelenting pursuit of
         perfection—because at JKW, every car deserves the best.
       </p>
-      <div class="card border-0">
+      <div class="cad border-0 d-flex justify-content-center">
         <img
         src="../assets/about-image.jpg"
         alt="about-image"
-        width="50%"
+        width="40%"
         height="90%"
-        class="rounded shadow "
+        class="rounded shadow"
       />
       </div>
       
